@@ -1,5 +1,7 @@
 React-Native-Mobile_Habit-Tracker-App:
-Habit Tracker App: React-native using MongoDB and Expo Router.
+
+Habit Tracker App: Mobile Application using React Native, Node.js, ExpressJS and MongoDB Atlas using Expo Router.
+
 It can create Habits and can be specified as daily and weekly basis additionally with color blocks as per users wish.
 The Habit can be marked as Completed, skipped, Edit, Archive or Delete by long Pressing on the particular Habit.
 
